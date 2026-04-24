@@ -1,0 +1,137 @@
+header {
+    background-color: #333;
+    color: white;
+    padding: 20px;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    position: sticky;
+    top: 0;
+    height: 100px;
+}
+a {
+    color: white;
+    text-decoration: none;
+    padding: 10px;
+    transition: all 0.3s ease;
+}
+a:hover {
+    color: rgb(197, 197, 197);
+    border-radius: 5px;
+}
+nav {
+    background-color: black;
+    width: 550px ;
+    padding: 20px;
+    height: 20px;
+    margin-left: 100px;
+}
+.paragraf {
+    font-size: 30px;
+    font-weight: bold;
+}
+p {
+    font-size: 14px;
+}
+.box {
+    display: flex;
+align-items: center;
+margin: 30px;
+}
+.right {
+    width: 630px;
+    height: 300px;
+    background-color: black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+h1 {
+    font-size: 40px;
+    margin-left: 19px;
+}
+.h2 {
+    font-size: 50px;
+    color: white;
+    margin-left: 200px;
+}
+.left {
+    width: 630px;
+    height: 300px;
+    background-color: lightgray;
+    margin-right: 10px;
+}
+.p3 {
+    color: orange;
+    margin-left: 300px;
+}
+.p2 {
+font-size: 19px;
+padding-left: 20px;
+padding-right: 20px;
+}
+.h3 {
+    font-size: 20px;
+    color: gray;
+}
+.mini-box {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 80px;
+    height: 80px;
+    background-color: black;
+    color: white;
+    border: 10px solid wheat;
+    margin-left: 15px;
+    float: left;
+    margin-right: 5px;
+}
+.card {
+    width: 300px;
+    height: 300px;
+    background-color: white;
+    color: black;
+    margin-left: 70px;
+}
+.p5 {
+    color: orange;
+    margin-left: 150px;
+}
+.wrapper {
+    display: flex;
+    justify-content: start;
+    align-items: center;
+}
+.box-2 {
+    width: 215px;
+    height: 100px;
+    background-color: black;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 10px solid wheat;
+    margin-left: 20px;
+    margin-top: 30px;
+}
+.h0{
+    font-size: 50px;
+    color: white;
+}
+.h4 {
+    font-size: 40px;
+    color: white;
+}
+.h6 {
+    font-size: 30px;
+    color: gray;
+}
+.box-flex {
+display: flex;
+justify-content: start;
+}
+.box-3 {
+    width: 300px;
+    margin-left: 50px;
+}
